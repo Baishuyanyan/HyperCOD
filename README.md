@@ -1,7 +1,7 @@
 # HyperCOD
 
 ## 📖 Paper
-The paper "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection" has been accepted at AAAI 2026. Paper now is available at .
+The paper "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection" has been accepted at AAAI 2026. Paper now is available at https://arxiv.org/abs/2601.03736.
 
 ### Abstract
 
