@@ -20,4 +20,19 @@ The dataset can be downloaded from:  https://pan.baidu.com/s/1Tm0uJpoSvOzMP20UQO
 - **Spectral Bands**: 200
 - **Resolution**: 1240 × 1680
 - **Annotation Types**: pixel-level masks
-- **Challenges**: Minimal Objects (MO), Complex Shapes (CS), Dynamic Lighting (DL), Object Occlusion (OO), Cluttered Backgrounds (CB)
+- **Challenges**: Minimal Objects (MO), Complex Shapes (CS), Dynamic Lighting (DL), Object Occlusion (OO), Cluttered Backgrounds (CB)
+
+## Citation
+
+If you find this work useful, please cite our **arXiv preprint**:
+
+```bibtex
+@article{bai2026hypercod,
+  title={HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection},
+  author={Bai, Shuyan and Xu, Tingfa and Liu, Peifu and Qiu, Yuhao and Bai, Huiyan and Chen, Huan and Peng, Yanyan and Li, Jianan},
+  year={2026},
+  primaryClass={cs.CV},
+  eprint={2601.03736},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2601.03736}
+}
