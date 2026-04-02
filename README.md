@@ -29,10 +29,11 @@ If you find this work useful, please cite our **arXiv preprint**:
 ```bibtex
 @article{bai2026hypercod,
   title={HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection},
-  author={Bai, Shuyan and Xu, Tingfa and Liu, Peifu and Qiu, Yuhao and Bai, Huiyan and Chen, Huan and Peng, Yanyan and Li, Jianan},
+  author={Bai, S. and Xu, T. and Liu, P. and Qiu, Y. and Bai, H. and Chen, H. and Peng, Y. and Li, J.},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={4},
+  pages={2363--2371},
   year={2026},
-  primaryClass={cs.CV},
-  eprint={2601.03736},
-  archivePrefix={arXiv},
-  url={https://arxiv.org/abs/2601.03736}
+  doi={10.1609/aaai.v40i4.37221}
 }
